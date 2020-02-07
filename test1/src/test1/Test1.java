@@ -10,10 +10,8 @@ public class Test1 {
 
 	
 	//modified2
-<<<<<<< HEAD
-	
-=======
+
 	
 	//modified3
->>>>>>> refs/heads/test-v2
+
 }
